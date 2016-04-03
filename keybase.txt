@@ -1,0 +1,68 @@
+==================================================================
+https://keybase.io/cullenmcdermott
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://cullenmcdermott.com
+  * I am cullenmcdermott (https://keybase.io/cullenmcdermott) on keybase.
+  * I have a public key with fingerprint D496 7DAD 6269 2A16 0D69  33D1 3BC7 663B 4212 30C8
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "01019c9d3e7597113266c0def62bfdb2188d30d40e62cb08900d66e677282f8fdde60a",
+            "fingerprint": "d4967dad62692a160d6933d13bc7663b421230c8",
+            "host": "keybase.io",
+            "key_id": "3bc7663b421230c8",
+            "kid": "01019c9d3e7597113266c0def62bfdb2188d30d40e62cb08900d66e677282f8fdde60a",
+            "uid": "55f9590ed5ef31afa765180368862719",
+            "username": "cullenmcdermott"
+        },
+        "service": {
+            "hostname": "cullenmcdermott.com",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1459690719,
+    "expire_in": 157680000,
+    "prev": "aec28ac52363da3300bc10d1dc354676e118e7ce5e5fdb26c0a457297f999ec8",
+    "seqno": 6,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.53
+Comment: https://keybase.io/crypto
+
+yMIrAnicrZJdSBRBAMfvKq1TynpIKyxrMaIUm9m5nd25oC9C66FPyEiia3dnVte7
+2z3v1ksLtQwi7DuihCIsJXpQogisRKmIAvtSLKS0pBejCyIfpOiLZo9687F5GWbm
+9//Pf/7Mw+mTPRneDaSy82De1oXeJ/fbqj07vLkj+wXNprVCYL8QYqmJhSmLO8GQ
+SYWAACCARCcUMVkiMoRIxFgHlBlY1AyqiVBRKALUDxgWdQ0oBACKMcOyLCqioRiU
+MgxUoVAwTKucxaIx03K4LfUTLFOVYhETUYWYiwhCFCJNlzFGml+EIgK6woUVdtxV
+8HCaGmdFps33+CKYijcB/59zV6fsJMkgEgGMSsxAUDVUGUtQAQgrChZlSFwwzmKW
+GmGc1qvDYWZFdMpiEdtxhLpCgR8mTJ25/boPmhgs0u0Id4rGbMfW7TAHKhwnGnD1
+Tm3UFexlWvCvVVAzLcpL5YIEi8VN2xICkJO6Y7re0C8RTADPViiwmqgZY0HTJSQZ
+K4AP9xqW4JYq00VF1SURYURVhADQdAgopDqS/FjGDEKFyTqTmOQWx1tU/ZIsEtkg
+hLBU5XFWZdlCAPOYajm3jJvllupUx5hQ9+Derikeb4YnPW2S+9k8Gb6Z/75gFZ36
+a1Zn1THn4jur71tD67aXi7ZMy96XN/j0+b5DX5vrF19WyzKvjrwcPJ9VPGPs9Klb
+yu1zG+py+svSK19k5T7p8vVX5c8rv9k0J3RrdMHjtPmbWgrGc9P7tl9YF7iwdGPD
+j0vLsnJH16jRaLwTH3nf1WA0Fh+vyPk0kpy2qub5kqGxti/TG7NKPnzLWBmpKdp0
+ssd3JZksaSsdmP/5d7J5sKS5d/eNPR1Hr7fnlT56tXO5rzvzTu8Z7fvcB8Nn7beH
+i7NL1zatS6D6+hVjqz8eCmeWzGhvOtjRcffNsx9w4PXC8Z7wgU/D3aHZxWvPvv7l
+L7i2myV7e05szm9Z31pWOF6bQBeH9uz4+QdmiEN2
+=NHX3
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/cullenmcdermott
+
+==================================================================
